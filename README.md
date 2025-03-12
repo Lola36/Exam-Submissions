@@ -77,12 +77,6 @@ Each milestone is worth 20 marks of the total project:
    - Generate key natural language processing algorithms
    - Answer pertinent questions
 
-## Submission Guidelines
-- Submit work as Python notebooks
-- Links to GitHub and Kaggle notebooks under personal accounts are acceptable
-- Individual contributions must be clearly demonstrated
-- Project duration: February - March 2025 (14 days)
-
 ## Required Datasets
 - Bike_Sales.xlsx
 - Bike_sales_Uganda.xlsx
